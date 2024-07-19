@@ -12,4 +12,4 @@
 <li>Ingresa en tu navegador</li>
 <li>Copia y pega esta ruta http://127.0.0.1:8000/docs</li>
 <li>A continuación estarás en el Swagger de FastAPI</li>
-<img src="swagger-fastapi.png" style="height: 90%; width:90%;"/>
+<img src="swager-fastapi.png" style="height: 90%; width:90%;"/>
